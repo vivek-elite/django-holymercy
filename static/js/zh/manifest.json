@@ -1,0 +1,43 @@
+{
+    "name": "Holymercy",
+    "short_name": "Holymercy",
+    "start_url": "https://holymercy.com/zh/",
+    "display": "standalone",
+    "background_color": "#eadcf7",
+    "theme_color": "#0808ed",
+    "orientation": "portrait-primary",
+    "description": "更接近天堂和上帝的强大的精神真理",
+    "icons": [
+    {
+      "src": "img/maskable_icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },  
+    {
+      "src": "img/icon-256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "img/maskable_icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+    "src": "img/icon-128.png",
+    "sizes": "128x128",
+    "type": "image/png",
+    "purpose": "any"
+    },
+    {
+    "src": "img/icon-64.png",
+    "sizes": "64x64",
+    "type": "image/webp",
+    "purpose": "any"
+    }
+  ]
+    
+}

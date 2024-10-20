@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://holymercy.com/zh-hk/sitemap.xml

@@ -1,0 +1,43 @@
+{
+    "name": "Holymercy",
+    "short_name": "Holymercy",
+    "start_url": "https://holymercy.com/fr/",
+    "display": "standalone",
+    "background_color": "#eadcf7",
+    "theme_color": "#673596",
+    "orientation": "portrait-primary",
+    "description": "Des vérités spirituelles pour se rapprocher du Ciel et de Dieu",
+    "icons": [
+    {
+      "src": "img/maskable_icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },  
+    {
+      "src": "img/icon-256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "img/maskable_icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+    "src": "img/icon-128.png",
+    "sizes": "128x128",
+    "type": "image/png",
+    "purpose": "any"
+    },
+    {
+    "src": "img/icon-64.png",
+    "sizes": "64x64",
+    "type": "image/png",
+    "purpose": "any"
+    }
+  ]
+    
+}

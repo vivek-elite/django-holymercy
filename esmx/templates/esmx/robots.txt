@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://holymercy.com/es-mx/sitemap.xml
+
+User-agent: GPTBot
+Disallow: /
